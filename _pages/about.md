@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am now studying in Qingdao University, majoring in system science. 
- <a href=''><img src=""></a>.
+ <a href=''><img src=""></a>
 
 My research interest includes: 
 - Image processing
