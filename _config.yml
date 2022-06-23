@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Tang"
-description              : "This is the academic homepage of Ph.D. Tang."
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "Chen Tao"
+description              : "系统科学"
+repository               : "supersahau/supersahau.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jian Tang"
+  name             : "Chen Tao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
+  bio              : "Qingdao University"
+  location         : "Qingdao, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : 
+  email            : "chen.t1998@foxmail.com"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "supersahau"
   google_plus      :
   keybase          :
   instagram        :
