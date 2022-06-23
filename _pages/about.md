@@ -52,19 +52,19 @@ My research interest includes:
 ---
 
 -	`CHEN Tao`, ZHANG Qingguo, LIU Ao. SVM Classification Implementation of Graphic Texture Detection and Welding Defects Based on Gray Level Co-occurrence Matrix[J]. Journal of Luoyang Institute of Science and Technology(Natural Science Edition),2022,32(01):53-61+67.
- 	陈滔,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].洛阳理工学院学报(自然科学版),2022,32(01):53-61+67.
+-	陈滔,张庆国,刘澳.基于灰度共生矩阵的图形纹理检测及焊接缺陷的SVM分类实现[J].洛阳理工学院学报(自然科学版),2022,32(01):53-61+67.
 [[HTML]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LYGY202201010)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E7%81%B0%E5%BA%A6%E5%85%B1%E7%94%9F%E7%9F%A9%E9%98%B5%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%BA%B9%E7%90%86%E6%A3%80%E6%B5%8B%E5%8F%8A%E7%84%8A%E6%8E%A5%E7%BC%BA%E9%99%B7%E7%9A%84SVM%E5%88%86%E7%B1%BB%E5%AE%9E%E7%8E%B0.pdf)
 
 -	CHEN Yiqiong, LIU Ao, FAN Guohua, BI Jiaze, `CHEN Tao`. Detection of Colorectal Polyps on CT Images Based on Deep Forest[J]. Journal of Luoyang Institute of Science and Technology(Natural Science Edition),2022,32(01):68-74.
-	陈祎琼,刘澳,范国华,毕家泽,陈滔.基于深度森林的CT图像结直肠息肉检测研究[J].洛阳理工学院学报(自然科学版),2022,32(01):68-74.
+-	陈祎琼,刘澳,范国华,毕家泽,陈滔.基于深度森林的CT图像结直肠息肉检测研究[J].洛阳理工学院学报(自然科学版),2022,32(01):68-74.
 [[HTML]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.012)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E7%9A%84CT%E5%9B%BE%E5%83%8F%E7%BB%93%E7%9B%B4%E8%82%A0%E6%81%AF%E8%82%89%E6%A3%80%E6%B5%8B%E7%A0%94%E7%A9%B6.pdf)
 
 -	`CHEN Tao`, ZHANG Qingguo, HE Jinbo, ZHOU Wenzhu. Research on Feature Extraction Algorithm of Text Plagiarism Detection Based on Multi-algorithm Fusion[J]. Journal of Hubei Minzu University(Natural Science Edition),2022,40(01):67-72.
-	陈滔,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].湖北民族大学学报(自然科学版),2022,40(01):67-72.
+-	陈滔,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].湖北民族大学学报(自然科学版),2022,40(01):67-72.
 [[HTML]](http://dx.chinadoi.cn/10.13501/j.cnki.42-1908/n.2022.03.011)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)
 
 -	WANG Xue-mei, WANG Feng-wen, `CHEN Tao`, ZHANG Qing-guo, JIANG Yue-lin. PM2.5 CONCENTRATION PREDICTION AND UNCERTAINTY ANALYSIS BASED ON A COMPOSITE MODEL[J]. Environmental Engineering,2020,38(08):229-235.
-	王学梅,王凤文,陈滔,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].环境工程,2020,38(08):229-235.(北大核心、CSCD)
+-	王学梅,王凤文,陈滔,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].环境工程,2020,38(08):229-235.
 [[HTML]](http://dx.chinadoi.cn/10.13205/j.hjgc.202008038)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)
 
 
