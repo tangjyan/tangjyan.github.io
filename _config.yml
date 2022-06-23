@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Tao"
-description              : "系统科学"
+description              : "System Science"
 repository               : "supersahau/supersahau.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
