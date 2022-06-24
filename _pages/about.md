@@ -81,7 +81,7 @@ My research interest includes:
 # 🏅 Honors and Awards
 - *Year 2020* Won `The second prize` of the 18th SuperMap Cup GIS Competition, `the third prize` of the 10th National College Student Market Survey and Analysis Competition and `the first prize` of Anhui Division, etc.
 - *Year 2019* Won `The third prize` of the 9th National College Student Market Survey and Analysis Competition and `the first prize` of Anhui Division, `the third prize` of graduate group of Anhui College Student Statistical Modeling Competition, etc.
-- 
+
 # 💬 Conferences
 
 - *time*, title, address.
