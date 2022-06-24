@@ -82,6 +82,6 @@ I compiled the review materials for the postgraduate entrance examination of 863
 
 
 # 💻 Internships
-- *2021.05 - 2021.08*, Hefei xiaolu data information technology co., ltd., Hefei China.
+- *2021.05 - 2021.08*, Hefei xiaolu data information technology co., ltd., Hefei.
 
 *[注释]: 🏭 新栏目图标
