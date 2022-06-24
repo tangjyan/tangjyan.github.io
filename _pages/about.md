@@ -45,9 +45,6 @@ My research interest includes:
 </div>
 </div>
 
--	test  
-[[HTML]]()  [[PDF]]()
-
 ### Chinese
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Luoyang Institute of Science and Technology2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
