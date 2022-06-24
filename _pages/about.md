@@ -36,14 +36,7 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">journal title</div><img src='images/' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
--	test 
-[[HTML]]()  [[PDF]]()
-
-</div>
-</div>
 
 ### Chinese
 ---
