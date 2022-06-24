@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now studying in Qingdao University, majoring in System Science. 
+Now, I am studying in Qingdao University, majoring in System Science. 
  <a href=''><img src=""></a>
 
 My research interest includes: 
