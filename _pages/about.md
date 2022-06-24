@@ -50,7 +50,7 @@ My research interest includes:
 
 ### Chinese
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">lylgxyxb2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Luoyang Institute of Science and Technology2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`CHEN Tao`, ZHANG Qingguo, LIU Ao. SVM Classification Implementation of Graphic Texture Detection and Welding Defects Based on Gray Level Co-occurrence Matrix[J]. Journal of Luoyang Institute of Science and Technology(Natural Science Edition),2022,32(01):53-61+67.
@@ -64,7 +64,7 @@ My research interest includes:
 [[HTML]](http://dx.chinadoi.cn/10.3969/j.issn.1674-5043.2022.01.012)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E6%A3%AE%E6%9E%97%E7%9A%84CT%E5%9B%BE%E5%83%8F%E7%BB%93%E7%9B%B4%E8%82%A0%E6%81%AF%E8%82%89%E6%A3%80%E6%B5%8B%E7%A0%94%E7%A9%B6.pdf)  
 	陈祎琼,刘澳,范国华,毕家泽,陈滔.基于深度森林的CT图像结直肠息肉检测研究[J].洛阳理工学院学报(自然科学版),2022,32(01):68-74.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">hbmzdxxb2022</div><img src='images/plagiarism2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hubei Minzu University2022</div><img src='images/plagiarism2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`CHEN Tao`, ZHANG Qingguo, HE Jinbo, ZHOU Wenzhu. Research on Feature Extraction Algorithm of Text Plagiarism Detection Based on Multi-algorithm Fusion[J]. Journal of Hubei Minzu University(Natural Science Edition),2022,40(01):67-72.
