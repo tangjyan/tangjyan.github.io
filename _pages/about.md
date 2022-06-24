@@ -24,6 +24,7 @@ My research interest includes:
 - Image processing
 - Meteorological statistical analysis
 - Natural language processing  
+
 I compiled the review materials for the postgraduate entrance examination of 863 Probability Theory and Mathematical Statistics. [[PDF]](/pdf/概率论与数理统计.pdf)
 
 
