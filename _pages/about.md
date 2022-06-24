@@ -30,8 +30,8 @@ I compiled the review materials for the postgraduate entrance examination of 863
 
 
 # 🎓 Educations 
-- *2022.09 - 2025.06*, <a href="http://english.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> School of Automation, Qingdao University, Qingdao China, Master 
-- *2017.09 - 2021.06*, <a href="http://eng.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> School of Engineering, Anhui Agriculture University, Hefei China, Undergraduate
+- *2022.09 - 2025.06*, <a href="http://english.qdu.edu.cn/"><img class="jpg" src="/images/qdu.jpg" width="23pt"></a> [School of Automation, Qingdao University](http://zdh.qdu.edu.cn/), Qingdao China, Master 
+- *2017.09 - 2021.06*, <a href="http://eng.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [School of Engineering, Anhui Agriculture University](http://gxy.ahau.edu.cn/), Hefei China, Undergraduate
  
 
 # 📝 Publications 
