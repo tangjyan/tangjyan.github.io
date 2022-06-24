@@ -36,8 +36,8 @@ I compiled the review materials for the postgraduate entrance examination of 863
 
 # 📝 Publications 
 
-//### English   此处编写英文文献
-//---
+*[注释]: ### English此处编写英文文献
+*[注释]: ---
 
 
 ### Chinese
