@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Tao"
-description              : "System Science"
+description              : "System science, School of Automation, Qingdao University"
 repository               : "supersahau/supersahau.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Tao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Qingdao University"
+  bio              : "Some people are part of story, but not part of endings."
   location         : "Qingdao, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
