@@ -40,11 +40,11 @@ I compiled the review materials for the postgraduate entrance examination of 863
 
 # 📝 Publications 
 
-*[注释]: ### English此处编写英文文献
+*[注释]: ### English Papers此处编写英文文献
 *[注释]: ---
 
 
-### Chinese
+### Chinese Papers
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Luoyang Institute of Science and Technology2022</div><img src='images/glcm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
