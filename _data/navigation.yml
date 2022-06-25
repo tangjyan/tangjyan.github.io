@@ -9,6 +9,9 @@ main:
   - title: "Programs"
     url: "/#-programs"
 
+  - title: "Conferences"
+    url: "/#-conferences"
+
   - title: "Publications"
     url: "/#-publications"
 
@@ -17,6 +20,3 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
