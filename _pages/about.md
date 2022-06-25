@@ -36,7 +36,7 @@ I compiled the review materials for the postgraduate entrance examination of 863
 - *2017.09 - 2021.06*, <a href="http://eng.ahau.edu.cn/"><img class="jpg" src="/images/ahau.jpg" width="20pt"></a> [School of Engineering, Anhui Agriculture University](http://gxy.ahau.edu.cn/), Hefei, Undergraduate
 
 <span class='anchor' id='program'></span>
-# 💬 Programs
+# 🏛 Programs
 - *2020.04-2021.04*, Student Development Support Program of the 5th "Excellent Talents Scheme" of Anhui Agricultural University, Leader[[Notice]](http://xszz.ahau.edu.cn/info/1013/1793.htm)
 
 
@@ -82,7 +82,7 @@ I compiled the review materials for the postgraduate entrance examination of 863
 - *Year 2019* Won `The third prize` of the 9th National College Student Market Survey and Analysis Competition and `the first prize` of Anhui Division, `the third prize` of graduate group of Anhui College Student Statistical Modeling Competition, etc.
 
 <span class='anchor' id='conferences'></span>
-# 🏛️ Conferences
+# 💬️ Conferences
 
 - *time*, title, address.
 
