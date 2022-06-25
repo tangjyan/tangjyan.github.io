@@ -5,6 +5,9 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+	
+  - title: "Programs"
+	  url: "/#-programs"
 
   - title: "Publications"
     url: "/#-publications"
