@@ -63,13 +63,13 @@ I compiled the review materials for the postgraduate entrance examination of 863
 <div class='paper-box-text' markdown="1">
 
 -	`CHEN Tao`, ZHANG Qingguo, HE Jinbo, ZHOU Wenzhu. Research on Feature Extraction Algorithm of Text Plagiarism Detection Based on Multi-algorithm Fusion[J]. Journal of Hubei Minzu University(Natural Science Edition),2022,40(01):67-72.
-[[HTML]](http://dx.chinadoi.cn/10.13501/j.cnki.42-1908/n.2022.03.011)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)  
+[[HTML]](https://hbmdzk.cbpt.cnki.net/WKD3/WebPublication/paperDigest.aspx?paperID=cd2cedeb-4a16-4c22-939b-b47e47ce7fcc)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E5%A4%9A%E7%AE%97%E6%B3%95%E8%9E%8D%E5%90%88%E7%9A%84%E6%96%87%E6%9C%AC%E6%8A%84%E8%A2%AD%E6%A3%80%E6%B5%8B%E7%9A%84%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6.pdf)  
 	陈滔,张庆国,何金波,周文竹.基于多算法融合的文本抄袭检测的特征提取算法研究[J].湖北民族大学学报(自然科学版),2022,40(01):67-72.
 </div>
 </div>
 
 -	WANG Xue-mei, WANG Feng-wen, `CHEN Tao`, ZHANG Qing-guo, JIANG Yue-lin. PM2.5 CONCENTRATION PREDICTION AND UNCERTAINTY ANALYSIS BASED ON A COMPOSITE MODEL[J]. Environmental Engineering,2020,38(08):229-235.
-[[HTML]](http://dx.chinadoi.cn/10.13205/j.hjgc.202008038)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)  
+[[HTML]](http://hjgc.ic-mag.com/cn/article/doi/10.13205/j.hjgc.202008038)  [[PDF]](/pdf/%E5%9F%BA%E4%BA%8E%E7%BB%84%E5%90%88%E6%A8%A1%E5%9E%8B%E7%9A%84PM2.5_%E6%B5%93%E5%BA%A6%E9%A2%84%E6%B5%8B%E5%8F%8A%E5%85%B6%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90.pdf)  
 	王学梅,王凤文,陈滔,张庆国,蒋跃林.基于组合模型的PM_(2.5)浓度预测及其不确定性分析[J].环境工程,2020,38(08):229-235.
 
 
